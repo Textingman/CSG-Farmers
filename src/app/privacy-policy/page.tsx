@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
       <header className="bg-white border-b border-gray-200 px-5 py-3.5 sticky top-0 z-50">
         <Link
           href="/"
-          className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#fcc7e8] transition-colors"
+          className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#d31464] transition-colors"
         >
           Farmers Insurance
         </Link>
@@ -94,7 +94,7 @@ export default function PrivacyPolicy() {
               HELP or contact us at{" "}
               <a
                 href="mailto:support@tryfarmers.com"
-                className="text-[#fcc7e8] underline"
+                className="text-[#d31464] underline"
               >
                 support@tryfarmers.com
               </a>
@@ -140,7 +140,7 @@ export default function PrivacyPolicy() {
               information. To exercise these rights, please contact us at{" "}
               <a
                 href="mailto:support@tryfarmers.com"
-                className="text-[#fcc7e8] underline"
+                className="text-[#d31464] underline"
               >
                 support@tryfarmers.com
               </a>
@@ -164,14 +164,14 @@ export default function PrivacyPolicy() {
                 Email:{" "}
                 <a
                   href="mailto:support@tryfarmers.com"
-                  className="text-[#fcc7e8] underline"
+                  className="text-[#d31464] underline"
                 >
                   support@tryfarmers.com
                 </a>
               </p>
               <p>
                 Phone:{" "}
-                <a href="tel:525576025349" className="text-[#fcc7e8] underline">
+                <a href="tel:525576025349" className="text-[#d31464] underline">
                   +52 55 7602 5349
                 </a>
               </p>
@@ -182,7 +182,7 @@ export default function PrivacyPolicy() {
         <div className="mt-10">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 text-sm text-[#fcc7e8] hover:underline font-medium"
+            className="inline-flex items-center gap-2 text-sm text-[#d31464] hover:underline font-medium"
           >
             ← Back to Home
           </Link>
