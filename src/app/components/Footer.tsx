@@ -50,9 +50,9 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-5 flex items-center justify-between gap-4">
           <div>
             <p className="text-white font-bold text-base mb-1.5">
-              Farmers Insurance
+              Farmers
             </p>
-            <p className="text-gray-500 text-sm">2026 - Farmers Insurance</p>
+            <p className="text-gray-500 text-sm">2026 - Farmers</p>
             <div className="flex gap-4 mt-2">
               <Link
                 href="/privacy-policy"
