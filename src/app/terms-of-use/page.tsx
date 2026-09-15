@@ -109,14 +109,14 @@ export default function TermsOfUse() {
               6. SMS Communications
             </h2>
             <p className="leading-relaxed mb-3">
-              Farmers Insurance uses SMS (text message) communications
-              exclusively for <strong>customer care purposes</strong>. This
-              includes responding to inquiries, providing updates on your
+              Farmers uses SMS (text message) communications
+              for <strong>promotional marketing purposes</strong>. This
+              includes sharing insurance offers, promotions, and updates on your
               requests, and offering support related to our services.
             </p>
             <p className="leading-relaxed mb-3">
-              By opting in to receive SMS messages from Farmers Insurance, you
-              consent to receive customer care text messages. Opting in is
+              By opting in to receive SMS messages from Farmers, you
+              consent to receive promotional marketing text messages. Opting in is
               entirely optional and is not required to submit a form or use our
               services.
             </p>

@@ -76,7 +76,7 @@ export default function PrivacyPolicy() {
             </p>
             <ul className="list-disc list-inside space-y-1 text-gray-700">
               <li>Respond to your inquiries and provide customer service</li>
-              <li>Send you marketing and promotional communications (with your consent)</li>
+              <li>Send you promotional marketing text messages and communications (with your consent)</li>
               <li>Improve our website and services</li>
               <li>Comply with legal obligations</li>
             </ul>
@@ -88,7 +88,7 @@ export default function PrivacyPolicy() {
             </h2>
             <p className="leading-relaxed">
               If you opt in to receive SMS messages, we will send you
-              customer care text messages related to your inquiries and our services. Message
+              promotional marketing text messages related to insurance offers and our services. Message
               frequency varies. Message and data rates may apply. You may opt
               out at any time by replying STOP to any message. For help, reply
               HELP or contact us at{" "}

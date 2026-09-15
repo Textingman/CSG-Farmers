@@ -223,7 +223,7 @@ export default function Home() {
             >
               <span className="text-gray-400 text-xs font-medium uppercase tracking-wide mr-1">(Optional)</span>{" "}
               By checking this box and submitting this form, you agree to
-              receive customer care text messages from Farmers Insurance. I
+              receive promotional marketing text messages from Farmers. I
               understand I may opt out of SMS communication by replying
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
@@ -236,7 +236,7 @@ export default function Home() {
               varies. Carriers are not liable for delayed or undelivered
               messages. Opting in to SMS is optional and not required to submit
               this form or use our services. All messages will be handled by
-              Farmers Insurance.
+              Farmers.
             </label>
           </div>
 
