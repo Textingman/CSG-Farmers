@@ -40,9 +40,17 @@ export default function Home() {
     <div className="flex flex-col min-h-screen">
       {/* Top Bar */}
       <header className="bg-white border-b border-gray-200 px-5 py-3.5 sticky top-0 z-50">
-        <span className="text-base font-semibold text-gray-900 tracking-tight">
-          Farmers Insurance
-        </span>
+        <div className="max-w-3xl mx-auto flex items-center justify-between">
+          <span className="text-base font-semibold text-gray-900 tracking-tight">
+            Farmers Insurance
+          </span>
+          <a
+            href="/about"
+            className="text-sm font-medium text-[#8b1a2e] hover:underline transition-colors"
+          >
+            About Us
+          </a>
+        </div>
       </header>
 
       {/* Hero Section */}
