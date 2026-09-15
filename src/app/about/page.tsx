@@ -9,13 +9,13 @@ export default function About() {
         <div className="max-w-3xl mx-auto flex items-center justify-between">
           <Link
             href="/"
-            className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#8b1a2e] transition-colors"
+            className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#fcc7e8] transition-colors"
           >
             Farmers Insurance
           </Link>
           <Link
             href="/about"
-            className="text-sm font-medium text-[#8b1a2e] underline underline-offset-2"
+            className="text-sm font-medium text-[#fcc7e8] underline underline-offset-2"
           >
             About Us
           </Link>
@@ -23,7 +23,7 @@ export default function About() {
       </header>
 
       {/* Hero */}
-      <section className="bg-[#8b1a2e] text-white px-5 py-16 text-center">
+      <section className="bg-[#fcc7e8] text-white px-5 py-16 text-center">
         <div className="max-w-2xl mx-auto">
           <h1 className="text-4xl font-bold mb-4">About Farmers</h1>
           <p className="text-lg text-red-100 leading-relaxed">
@@ -74,19 +74,19 @@ export default function About() {
             <h2 className="text-2xl font-bold text-gray-900 mb-3">Why Work With Us</h2>
             <ul className="space-y-3 text-gray-600">
               <li className="flex items-start gap-3">
-                <span className="text-[#8b1a2e] font-bold mt-0.5">✓</span>
+                <span className="text-[#fcc7e8] font-bold mt-0.5">✓</span>
                 <span><strong className="text-gray-900">We listen first</strong> — Every conversation starts with understanding your situation before anything else.</span>
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-[#8b1a2e] font-bold mt-0.5">✓</span>
+                <span className="text-[#fcc7e8] font-bold mt-0.5">✓</span>
                 <span><strong className="text-gray-900">We simplify complexity</strong> — We break things down so you can make decisions with confidence.</span>
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-[#8b1a2e] font-bold mt-0.5">✓</span>
+                <span className="text-[#fcc7e8] font-bold mt-0.5">✓</span>
                 <span><strong className="text-gray-900">We're in your corner</strong> — Our goal is to find what's right for you, not just what's available.</span>
               </li>
               <li className="flex items-start gap-3">
-                <span className="text-[#8b1a2e] font-bold mt-0.5">✓</span>
+                <span className="text-[#fcc7e8] font-bold mt-0.5">✓</span>
                 <span><strong className="text-gray-900">No obligation</strong> — Reach out, ask questions, and explore your options at your own pace.</span>
               </li>
             </ul>
@@ -98,7 +98,7 @@ export default function About() {
             <p className="text-gray-500 mb-5 text-sm">Fill out our quick form and someone will reach out to walk you through everything.</p>
             <Link
               href="/"
-              className="inline-block px-8 py-3 bg-[#f9987d] hover:bg-[#f7845f] text-white font-semibold rounded-md transition-colors duration-200"
+              className="inline-block px-8 py-3 bg-[#fcc7e8] hover:bg-[#fcc7e8] text-white font-semibold rounded-md transition-colors duration-200"
             >
               Get Started
             </Link>

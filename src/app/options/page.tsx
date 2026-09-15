@@ -8,7 +8,7 @@ export default function Options() {
       <header className="bg-white border-b border-gray-200 px-5 py-3.5 sticky top-0 z-50">
         <Link
           href="/"
-          className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#8b1a2e] transition-colors"
+          className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#fcc7e8] transition-colors"
         >
           Farmers Insurance
         </Link>
@@ -25,7 +25,7 @@ export default function Options() {
             href="https://www.farmers.com/"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full max-w-xs py-4 bg-[#f9987d] hover:bg-[#f7845f] text-white font-semibold text-base rounded-md transition-colors duration-200 tracking-wide text-center"
+            className="w-full max-w-xs py-4 bg-[#fcc7e8] hover:bg-[#fcc7e8] text-white font-semibold text-base rounded-md transition-colors duration-200 tracking-wide text-center"
           >
             Continue
           </a>

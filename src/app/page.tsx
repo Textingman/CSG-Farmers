@@ -46,7 +46,7 @@ export default function Home() {
           </span>
           <a
             href="/about"
-            className="text-sm font-medium text-[#8b1a2e] hover:underline transition-colors"
+            className="text-sm font-medium text-[#fcc7e8] hover:underline transition-colors"
           >
             About Us
           </a>
@@ -109,7 +109,7 @@ export default function Home() {
               placeholder="First Name"
               value={formData.firstName}
               onChange={handleChange}
-              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#8b1a2e] transition-colors"
+              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#fcc7e8] transition-colors"
             />
           </div>
 
@@ -128,7 +128,7 @@ export default function Home() {
               placeholder="Last Name"
               value={formData.lastName}
               onChange={handleChange}
-              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#8b1a2e] transition-colors"
+              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#fcc7e8] transition-colors"
             />
           </div>
 
@@ -147,7 +147,7 @@ export default function Home() {
               placeholder="Email Address"
               value={formData.email}
               onChange={handleChange}
-              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#8b1a2e] transition-colors"
+              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#fcc7e8] transition-colors"
             />
           </div>
 
@@ -166,7 +166,7 @@ export default function Home() {
               placeholder="Phone number"
               value={formData.phone}
               onChange={handleChange}
-              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#8b1a2e] transition-colors"
+              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#fcc7e8] transition-colors"
             />
           </div>
 
@@ -185,7 +185,7 @@ export default function Home() {
               rows={5}
               value={formData.message}
               onChange={handleChange}
-              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#8b1a2e] transition-colors resize-y"
+              className="w-full px-4 py-3.5 border border-gray-300 rounded-md text-base text-gray-900 placeholder-gray-400 outline-none focus:border-[#fcc7e8] transition-colors resize-y"
             />
           </div>
 
@@ -197,18 +197,18 @@ export default function Home() {
               name="privacyAgreed"
               checked={formData.privacyAgreed}
               onChange={handleChange}
-              className="mt-0.5 w-4.5 h-4.5 flex-shrink-0 accent-[#8b1a2e] cursor-pointer"
+              className="mt-0.5 w-4.5 h-4.5 flex-shrink-0 accent-[#fcc7e8] cursor-pointer"
             />
             <label
               htmlFor="privacyAgreed"
               className="text-sm text-gray-600 leading-relaxed cursor-pointer"
             >
               I have read and agree to the{" "}
-              <a href="/privacy-policy" className="text-[#8b1a2e] underline">
+              <a href="/privacy-policy" className="text-[#fcc7e8] underline">
                 Privacy Policy
               </a>{" "}
               and{" "}
-              <a href="/terms-of-use" className="text-[#8b1a2e] underline">
+              <a href="/terms-of-use" className="text-[#fcc7e8] underline">
                 Terms of Use
               </a>
               .
@@ -223,7 +223,7 @@ export default function Home() {
               name="smsAgreed"
               checked={formData.smsAgreed}
               onChange={handleChange}
-              className="mt-0.5 w-4.5 h-4.5 flex-shrink-0 accent-[#8b1a2e] cursor-pointer"
+              className="mt-0.5 w-4.5 h-4.5 flex-shrink-0 accent-[#fcc7e8] cursor-pointer"
             />
             <label
               htmlFor="smsAgreed"
@@ -236,7 +236,7 @@ export default function Home() {
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
                 href="mailto:support@tryfarmers.com"
-                className="text-[#8b1a2e] underline"
+                className="text-[#fcc7e8] underline"
               >
                 support@tryfarmers.com
               </a>{" "}
@@ -251,7 +251,7 @@ export default function Home() {
           {/* Submit Button */}
           <button
             type="submit"
-            className="w-full py-4 bg-[#f9987d] hover:bg-[#f7845f] text-white font-semibold text-base rounded-md transition-colors duration-200 tracking-wide cursor-pointer"
+            className="w-full py-4 bg-[#fcc7e8] hover:bg-[#fcc7e8] text-white font-semibold text-base rounded-md transition-colors duration-200 tracking-wide cursor-pointer"
           >
             Submit
           </button>
