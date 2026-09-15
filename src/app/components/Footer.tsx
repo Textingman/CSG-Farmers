@@ -17,9 +17,9 @@ export default function Footer() {
               </strong>
               Farmers Insurance
               <br />
-              200 Galleria Pkwy SE, Ste. 260
+              6301 Owensmouth Avenue
               <br />
-              Atlanta, GA 30339
+              Woodland Hills, CA 91367
             </div>
           </div>
 
@@ -38,10 +38,10 @@ export default function Footer() {
           <div className="flex items-center gap-3.5">
             <span className="text-lg flex-shrink-0">📞</span>
             <a
-              href="tel:14046001660"
+              href="tel:525576025349"
               className="text-sm text-gray-400 hover:text-white transition-colors"
             >
-              (404) 600-1660
+              +52 55 7602 5349
             </a>
           </div>
         </div>

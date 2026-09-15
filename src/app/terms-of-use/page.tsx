@@ -192,8 +192,8 @@ export default function TermsOfUse() {
             </p>
             <div className="mt-3 text-gray-700">
               <p className="font-semibold">Farmers Insurance</p>
-              <p>200 Galleria Pkwy SE, Ste. 260</p>
-              <p>Atlanta, GA 30339</p>
+              <p>6301 Owensmouth Avenue</p>
+              <p>Woodland Hills, CA 91367</p>
               <p>
                 Email:{" "}
                 <a
@@ -205,8 +205,8 @@ export default function TermsOfUse() {
               </p>
               <p>
                 Phone:{" "}
-                <a href="tel:14046001660" className="text-[#8b1a2e] underline">
-                  (404) 600-1660
+                <a href="tel:525576025349" className="text-[#8b1a2e] underline">
+                  +52 55 7602 5349
                 </a>
               </p>
             </div>
