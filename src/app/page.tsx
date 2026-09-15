@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
+
 import Footer from "@/app/components/Footer";
 
 export default function Home() {
@@ -41,7 +41,7 @@ export default function Home() {
       {/* Top Bar */}
       <header className="bg-white border-b border-gray-200 px-5 py-3.5 sticky top-0 z-50">
         <span className="text-base font-semibold text-gray-900 tracking-tight">
-          Peachy Insurance
+          Farmers Insurance
         </span>
       </header>
 
@@ -62,13 +62,7 @@ export default function Home() {
         <div className="relative z-10 flex flex-col items-center gap-7">
           {/* Logo Box */}
           <div className="bg-black rounded-md px-9 py-5 flex flex-col items-center gap-2 shadow-md min-w-[180px]">
-            <Image
-              src="/PeachyLogo.png"
-              alt="Peachy Insurance Logo"
-              width={160}
-              height={80}
-              className="object-contain"
-            />
+            <span className="text-white text-3xl font-bold tracking-tight">Farmers</span>
           </div>
 
         </div>
@@ -229,20 +223,20 @@ export default function Home() {
             >
               <span className="text-gray-400 text-xs font-medium uppercase tracking-wide mr-1">(Optional)</span>{" "}
               By checking this box and submitting this form, you agree to
-              receive customer care text messages from Peachy Insurance. I
+              receive customer care text messages from Farmers Insurance. I
               understand I may opt out of SMS communication by replying
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
-                href="mailto:support@trypeachyinsurance.com"
+                href="mailto:support@tryfarmers.com"
                 className="text-[#8b1a2e] underline"
               >
-                support@trypeachyinsurance.com
+                support@tryfarmers.com
               </a>{" "}
               for help. Message and Data rates may apply. Message frequency
               varies. Carriers are not liable for delayed or undelivered
               messages. Opting in to SMS is optional and not required to submit
               this form or use our services. All messages will be handled by
-              Peachy Insurance.
+              Farmers Insurance.
             </label>
           </div>
 

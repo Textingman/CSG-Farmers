@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Footer from "@/app/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Peachy Insurance",
-  description: "Privacy Policy for Peachy Insurance",
+  title: "Privacy Policy | Farmers Insurance",
+  description: "Privacy Policy for Farmers Insurance",
 };
 
 export default function PrivacyPolicy() {
@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
           href="/"
           className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#8b1a2e] transition-colors"
         >
-          Peachy Insurance
+          Farmers Insurance
         </Link>
       </header>
 
@@ -35,7 +35,7 @@ export default function PrivacyPolicy() {
               1. Introduction
             </h2>
             <p className="leading-relaxed">
-              Peachy Insurance (&quot;we,&quot; &quot;our,&quot; or
+              Farmers Insurance (&quot;we,&quot; &quot;our,&quot; or
               &quot;us&quot;) is committed to protecting your personal
               information and your right to privacy. This Privacy Policy
               explains how we collect, use, disclose, and safeguard your
@@ -93,10 +93,10 @@ export default function PrivacyPolicy() {
               out at any time by replying STOP to any message. For help, reply
               HELP or contact us at{" "}
               <a
-                href="mailto:support@trypeachyinsurance.com"
+                href="mailto:support@tryfarmers.com"
                 className="text-[#8b1a2e] underline"
               >
-                support@trypeachyinsurance.com
+                support@tryfarmers.com
               </a>
               .
             </p>
@@ -139,10 +139,10 @@ export default function PrivacyPolicy() {
               You have the right to access, correct, or delete your personal
               information. To exercise these rights, please contact us at{" "}
               <a
-                href="mailto:support@trypeachyinsurance.com"
+                href="mailto:support@tryfarmers.com"
                 className="text-[#8b1a2e] underline"
               >
-                support@trypeachyinsurance.com
+                support@tryfarmers.com
               </a>
               .
             </p>
@@ -157,16 +157,16 @@ export default function PrivacyPolicy() {
               contact us:
             </p>
             <div className="mt-3 text-gray-700">
-              <p className="font-semibold">Peachy Insurance</p>
+              <p className="font-semibold">Farmers Insurance</p>
               <p>200 Galleria Pkwy SE, Ste. 260</p>
               <p>Atlanta, GA 30339</p>
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:support@trypeachyinsurance.com"
+                  href="mailto:support@tryfarmers.com"
                   className="text-[#8b1a2e] underline"
                 >
-                  support@trypeachyinsurance.com
+                  support@tryfarmers.com
                 </a>
               </p>
               <p>

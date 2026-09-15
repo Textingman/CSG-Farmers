@@ -15,7 +15,7 @@ export default function Footer() {
               <strong className="text-white block mb-0.5">
                 Mailing Address
               </strong>
-              Peachy Insurance
+              Farmers Insurance
               <br />
               200 Galleria Pkwy SE, Ste. 260
               <br />
@@ -27,10 +27,10 @@ export default function Footer() {
           <div className="flex items-center gap-3.5 mb-4">
             <span className="text-lg flex-shrink-0">✉</span>
             <a
-              href="mailto:support@trypeachyinsurance.com"
+              href="mailto:support@tryfarmers.com"
               className="text-sm text-gray-400 hover:text-white transition-colors"
             >
-              support@trypeachyinsurance.com
+              support@tryfarmers.com
             </a>
           </div>
 
@@ -50,9 +50,9 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-5 flex items-center justify-between gap-4">
           <div>
             <p className="text-white font-bold text-base mb-1.5">
-              Peachy Insurance
+              Farmers Insurance
             </p>
-            <p className="text-gray-500 text-sm">2026 - Peachy Insurance</p>
+            <p className="text-gray-500 text-sm">2026 - Farmers Insurance</p>
             <div className="flex gap-4 mt-2">
               <Link
                 href="/privacy-policy"
