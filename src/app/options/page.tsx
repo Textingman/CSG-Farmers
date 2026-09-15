@@ -1,11 +1,8 @@
 export default function Options() {
   return (
-    <div
-      className="fixed inset-0 flex items-center justify-center"
-      style={{ background: "linear-gradient(135deg, #fce4f3 0%, #fcc7e8 100%)" }}
-    >
+    <div className="fixed inset-0 flex items-center justify-center bg-white">
       {/* Modal Card */}
-      <div className="bg-white rounded-2xl shadow-2xl w-full max-w-sm mx-4 overflow-hidden">
+      <div className="bg-white rounded-2xl shadow-2xl border border-gray-100 w-full max-w-sm mx-4 overflow-hidden">
         {/* Top accent bar */}
         <div className="h-1.5 w-full" style={{ backgroundColor: "#fcc7e8" }} />
 
@@ -18,7 +15,7 @@ export default function Options() {
           >
             <svg
               className="w-8 h-8"
-              style={{ color: "#fcc7e8" }}
+              style={{ color: "#d31464" }}
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -46,7 +43,7 @@ export default function Options() {
             target="_blank"
             rel="noopener noreferrer"
             className="w-full py-4 rounded-xl text-white font-semibold text-base transition-opacity duration-200 hover:opacity-90 text-center block"
-            style={{ backgroundColor: "#fcc7e8" }}
+            style={{ backgroundColor: "#d31464" }}
           >
             Continue
           </a>
