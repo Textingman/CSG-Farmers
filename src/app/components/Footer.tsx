@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="flex items-center gap-3.5">
             <span className="text-lg flex-shrink-0">📞</span>
             <a
-              href="tel:525576025349"
+              href="tel:18883276335"
               className="text-sm text-gray-400 hover:text-white transition-colors"
             >
               +52 55 7602 5349
