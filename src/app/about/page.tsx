@@ -11,7 +11,7 @@ export default function About() {
             href="/"
             className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#d31464] transition-colors"
           >
-            Farmers Insurance
+            Farmers
           </Link>
           <Link
             href="/about"

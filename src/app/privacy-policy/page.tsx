@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Footer from "@/app/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Farmers Insurance",
-  description: "Privacy Policy for Farmers Insurance",
+  title: "Privacy Policy | Farmers",
+  description: "Privacy Policy for Farmers",
 };
 
 export default function PrivacyPolicy() {
@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
           href="/"
           className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#d31464] transition-colors"
         >
-          Farmers Insurance
+          Farmers
         </Link>
       </header>
 
@@ -35,7 +35,7 @@ export default function PrivacyPolicy() {
               1. Introduction
             </h2>
             <p className="leading-relaxed">
-              Farmers Insurance (&quot;we,&quot; &quot;our,&quot; or
+              Farmers (&quot;we,&quot; &quot;our,&quot; or
               &quot;us&quot;) is committed to protecting your personal
               information and your right to privacy. This Privacy Policy
               explains how we collect, use, disclose, and safeguard your
@@ -157,7 +157,7 @@ export default function PrivacyPolicy() {
               contact us:
             </p>
             <div className="mt-3 text-gray-700">
-              <p className="font-semibold">Farmers Insurance</p>
+              <p className="font-semibold">Farmers</p>
               <p>6301 Owensmouth Avenue</p>
               <p>Woodland Hills, CA 91367</p>
               <p>

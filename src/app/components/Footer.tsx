@@ -15,7 +15,7 @@ export default function Footer() {
               <strong className="text-white block mb-0.5">
                 Mailing Address
               </strong>
-              Farmers Insurance
+              Farmers
               <br />
               6301 Owensmouth Avenue
               <br />

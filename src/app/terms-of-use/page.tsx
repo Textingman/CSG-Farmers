@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import Footer from "@/app/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Terms of Use | Farmers Insurance",
-  description: "Terms of Use for Farmers Insurance",
+  title: "Terms of Use | Farmers",
+  description: "Terms of Use for Farmers",
 };
 
 export default function TermsOfUse() {
@@ -16,7 +16,7 @@ export default function TermsOfUse() {
           href="/"
           className="text-base font-semibold text-gray-900 tracking-tight hover:text-[#d31464] transition-colors"
         >
-          Farmers Insurance
+          Farmers
         </Link>
       </header>
 
@@ -33,7 +33,7 @@ export default function TermsOfUse() {
               1. Acceptance of Terms
             </h2>
             <p className="leading-relaxed">
-              By accessing and using the Farmers Insurance website, you accept
+              By accessing and using the Farmers website, you accept
               and agree to be bound by these Terms of Use. If you do not agree
               to these terms, please do not use our website.
             </p>
@@ -86,7 +86,7 @@ export default function TermsOfUse() {
             <p className="leading-relaxed">
               This website is provided on an &quot;as is&quot; and &quot;as
               available&quot; basis without any warranties of any kind, either
-              express or implied. Farmers Insurance does not warrant that the
+              express or implied. Farmers does not warrant that the
               website will be uninterrupted, error-free, or free of viruses or
               other harmful components.
             </p>
@@ -97,7 +97,7 @@ export default function TermsOfUse() {
               5. Limitation of Liability
             </h2>
             <p className="leading-relaxed">
-              To the fullest extent permitted by law, Farmers Insurance shall
+              To the fullest extent permitted by law, Farmers shall
               not be liable for any indirect, incidental, special, consequential,
               or punitive damages arising out of or related to your use of this
               website or the services provided.
@@ -142,7 +142,7 @@ export default function TermsOfUse() {
             <p className="leading-relaxed">
               No mobile information will be shared with third parties or
               affiliates for marketing purposes. All SMS messages will be
-              handled solely by Farmers Insurance.
+              handled solely by Farmers.
             </p>
           </section>
 
@@ -152,7 +152,7 @@ export default function TermsOfUse() {
             </h2>
             <p className="leading-relaxed">
               Our website may contain links to third-party websites. These links
-              are provided for your convenience only. Farmers Insurance has no
+              are provided for your convenience only. Farmers has no
               control over the content of those sites and accepts no
               responsibility for them or for any loss or damage that may arise
               from your use of them.
@@ -191,7 +191,7 @@ export default function TermsOfUse() {
               us:
             </p>
             <div className="mt-3 text-gray-700">
-              <p className="font-semibold">Farmers Insurance</p>
+              <p className="font-semibold">Farmers</p>
               <p>6301 Owensmouth Avenue</p>
               <p>Woodland Hills, CA 91367</p>
               <p>
