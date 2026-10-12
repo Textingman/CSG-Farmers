@@ -41,7 +41,7 @@ export default function Footer() {
               href="tel:18883276335"
               className="text-sm text-gray-400 hover:text-white transition-colors"
             >
-              +52 55 7602 5349
+              1-888-327-6335
             </a>
           </div>
         </div>

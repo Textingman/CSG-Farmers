@@ -206,7 +206,7 @@ export default function TermsOfUse() {
               <p>
                 Phone:{" "}
                 <a href="tel:18883276335" className="text-[#d31464] underline">
-                  +52 55 7602 5349
+                  1-888-327-6335
                 </a>
               </p>
             </div>
