@@ -42,7 +42,7 @@ export default function Home() {
       <header className="bg-white border-b border-gray-200 px-5 py-3.5 sticky top-0 z-50">
         <div className="max-w-3xl mx-auto flex items-center justify-between">
           <span className="text-base font-semibold text-gray-900 tracking-tight">
-            Farmers Insurance
+            Farmers
           </span>
           <a
             href="/about"
