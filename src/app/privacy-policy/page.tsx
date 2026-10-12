@@ -93,10 +93,10 @@ export default function PrivacyPolicy() {
               out at any time by replying STOP to any message. For help, reply
               HELP or contact us at{" "}
               <a
-                href="mailto:support@tryfarmers.com"
+                href="mailto:support@tryfarmersagency.com"
                 className="text-[#d31464] underline"
               >
-                support@tryfarmers.com
+                support@tryfarmersagency.com
               </a>
               .
             </p>
@@ -139,10 +139,10 @@ export default function PrivacyPolicy() {
               You have the right to access, correct, or delete your personal
               information. To exercise these rights, please contact us at{" "}
               <a
-                href="mailto:support@tryfarmers.com"
+                href="mailto:support@tryfarmersagency.com"
                 className="text-[#d31464] underline"
               >
-                support@tryfarmers.com
+                support@tryfarmersagency.com
               </a>
               .
             </p>
@@ -163,10 +163,10 @@ export default function PrivacyPolicy() {
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:support@tryfarmers.com"
+                  href="mailto:support@tryfarmersagency.com"
                   className="text-[#d31464] underline"
                 >
-                  support@tryfarmers.com
+                  support@tryfarmersagency.com
                 </a>
               </p>
               <p>

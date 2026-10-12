@@ -235,10 +235,10 @@ export default function Home() {
               understand I may opt out of SMS communication by replying
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
-                href="mailto:support@tryfarmers.com"
+                href="mailto:support@tryfarmersagency.com"
                 className="text-[#d31464] underline"
               >
-                support@tryfarmers.com
+                support@tryfarmersagency.com
               </a>{" "}
               for help. Message and Data rates may apply. Message frequency
               varies. Carriers are not liable for delayed or undelivered

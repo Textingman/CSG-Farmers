@@ -131,10 +131,10 @@ export default function TermsOfUse() {
               <li>
                 For help, reply <strong>HELP</strong> or email{" "}
                 <a
-                  href="mailto:support@tryfarmers.com"
+                  href="mailto:support@tryfarmersagency.com"
                   className="text-[#d31464] underline"
                 >
-                  support@tryfarmers.com
+                  support@tryfarmersagency.com
                 </a>
                 .
               </li>
@@ -197,10 +197,10 @@ export default function TermsOfUse() {
               <p>
                 Email:{" "}
                 <a
-                  href="mailto:support@tryfarmers.com"
+                  href="mailto:support@tryfarmersagency.com"
                   className="text-[#d31464] underline"
                 >
-                  support@tryfarmers.com
+                  support@tryfarmersagency.com
                 </a>
               </p>
               <p>
