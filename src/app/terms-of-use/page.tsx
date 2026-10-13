@@ -110,13 +110,13 @@ export default function TermsOfUse() {
             </h2>
             <p className="leading-relaxed mb-3">
               Farmers uses SMS (text message) communications
-              for <strong>promotional marketing purposes</strong>. This
-              includes sharing insurance offers, promotions, and updates on your
-              requests, and offering support related to our services.
+              for <strong>customer care purposes</strong>. This
+              includes providing support, responding to inquiries, and offering
+              assistance related to our services.
             </p>
             <p className="leading-relaxed mb-3">
               By opting in to receive SMS messages from Farmers, you
-              consent to receive promotional marketing text messages. Opting in is
+              consent to receive customer care text messages. Opting in is
               entirely optional and is not required to submit a form or use our
               services.
             </p>

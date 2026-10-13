@@ -231,7 +231,7 @@ export default function Home() {
             >
               <span className="text-gray-400 text-xs font-medium uppercase tracking-wide mr-1">(Optional)</span>{" "}
               By checking this box and submitting this form, you agree to
-              receive promotional marketing text messages from Farmers. I
+              receive customer care text messages from Farmers. I
               understand I may opt out of SMS communication by replying
               &apos;STOP&apos;. Reply HELP or email{" "}
               <a
